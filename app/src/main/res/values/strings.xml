@@ -1,3 +1,24 @@
 <resources>
     <string name="app_name">Football</string>
+    <string-array name="club_name">
+        <item>Barcelona FC</item>
+        <item>Real Madrid</item>
+        <item>Bayern Munchen</item>
+        <item>Manchester City</item>
+        <item>Manchester United</item>
+        <item>Chelse</item>
+        <item>Ac Milan FC</item>
+        <item>Arsenal FC</item>
+    </string-array>
+
+    <array name="club_image">
+        <item>@drawable/barca</item>
+        <item>@drawable/real</item>
+        <item>@drawable/munchen</item>
+        <item>@drawable/manchertercity</item>
+        <item>@drawable/united</item>
+        <item>@drawable/chelse</item>
+        <item>@drawable/milan</item>
+        <item>@drawable/arsenal</item>
+    </array>
 </resources>
